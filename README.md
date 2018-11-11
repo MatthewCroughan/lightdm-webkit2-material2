@@ -33,7 +33,7 @@ Created for Arch Linux.
 
 ### Tips
 #### Lock screen
-- Type `dm-tool lock`
+- Type `light-locker`
 
 ### Screenshots
 
